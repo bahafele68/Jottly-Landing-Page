@@ -1,0 +1,85 @@
+<html>
+  <head>
+    <title>Jott.ly</title>
+    <link ref="Jottly landing page" rel="stylesheet" type="text/css"/>
+<style>
+
+    /*Green Header*/
+	header{
+	bgcolor:#2ecc71;
+	width:100%;
+	height:15px;
+	}
+	
+   <h1>Sign In Contact Us Help/h1>
+        header h1{
+        font-size:1em;
+        color:#000000;
+        font-family:Times News Roman;
+        font-weight:bold;
+        text-transform:capitalize;
+        text-align:right
+        display:inline-block
+        padding:10px;
+        }
+	</style>
+
+     /*End of Green Header*/   
+
+	/*Jott.ly logo*/
+       
+  <center><img src= "https://dl-web.dropbox.com/get/Jottly_Images_Beverly_Hafele/Jott.ly logo.jpeg"> alt="Jott.ly logo.jpeg"</center>
+  <style>
+	h1{
+	font-family:Times News Roman;
+	font-color:#000000;
+	font-weight:1.000em;bold-italic;
+	text-align:center;
+	}
+
+	<h1>Sharing content has never been so easy!</h1>  
+	</style>
+
+         </head>
+  <body>
+	<style>
+	<body color:#ffffff>
+	</style>
+
+    <div>
+
+	/*Silver strip*/
+
+	<style>
+	header{
+	bgcolor:#bdc3c7;
+	width:100%;
+	height:20px;
+	}
+	/*End of silver strip*/
+
+<img src="https://dl-web.dropbox.com/get/Jottly_Beverly_Hafele/Jottly_Beverly_Hafele/cropped%20handwriting%20picture.jpeg?_subject_uid=%644006&w=aacrzehrwxfy4eaiujw46bdpmcfcsmfwscoxmgiykkkwxa">"name" width= "300" height="200";float:left>
+      
+	/*Purple box inside silver strip*/
+
+      <h2> An easier way to write and collaborate within your organization.</h2>
+      <br>Edit, post and share content with your peers in a simple way.</br>
+    
+    
+    </div>
+    
+    <div>
+      <h3>What is</h3><img src= "https://dl-web.dropbox.com/get/Jottly_Images_Beverly_Hafele/Jott.ly.jpeg"> alt="Jott.ly.jpeg"<h4>?</h4>
+   <img src= "https://dl-web.dropbox.com/get/Jottly_Images_Beverly_Hafele/Jott.ly.jpeg"> alt="Jott.ly.jpeg"
+      <p>is a fictious SaaS (Software as a Service)web application focused on simplifying content collaboration.  The purpose is to make writing documents more collaborative and social.</p>
+      </div>
+    <ol>
+      <li>"http://www.bloc.io.com"</li>
+      <li>"http://www.codepen.io.com"</li>
+      <li>"http://www.behance.net"</li>
+    </ol>
+    </div>
+      
+    <ahref= "http://www.google.com" target="_blank">Link to Google<a/>
+      </body>
+    </html>

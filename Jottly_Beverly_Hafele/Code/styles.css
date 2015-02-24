@@ -1,0 +1,151 @@
+styles.css
+<link ref="stylesheet"href="stylesheets/base.css">
+<link ref="stylesheet" href="stylesheets/skeleton.css">
+<link ref="stylesheet" href="stylesheets/style.css">
+<link ref="stylesheet" href="stylesheets/layout.css">
+
+font-family: "Times New Roman", "Georgia", serif; 
+
+ <!--Green Navigation Bar-->
+ <style>
+<!--Style for wording in green navigation bar-->
+     ul{
+      font-size:40px; bold;            
+      color:#000000; 
+      text-align:right;
+      text-decoration:none;    
+      text-transform:uppercase;
+      padding:0px;
+            }       
+
+<!--End of Green Navigation Bar-->
+
+<!--Logo-->
+
+     div{
+      <div class="twelve columns";>
+      min-height:500px;
+      float:center;}
+     
+<!--Statement under logo-->
+          h1{
+        font-weight:bold;italic;
+        font-size:36px;
+        text-align:center;
+          		 }
+
+.boxed{
+  border:1px;
+  solid:#000000;
+  width:100%;
+}
+
+
+
+
+<!--Silver background strip-->
+   		section{
+        color:#bdc3c7;
+        width:100%;
+                border:1px solid #bdc3c7;
+        }
+ <!--Handwriting picture-->
+      Picture{
+        width:"300";
+        height:"200";
+        float:left;
+              }       
+
+ <!--Purple text box-->     
+              .text box{
+        width:40px;
+        height:40px;
+        color:#8e44ad;
+        float:right:justified;
+      }
+<!--Wording inside purple text box-->
+      h2{
+        font-family:Georgia;
+        font-size:24px;
+        font-weight:bold;
+        float:right;justified;
+        padding:5px;
+       }
+
+		    {
+        font-size:18px;
+        font-weight:regular;
+        }
+
+<!--Orange learn more button-->
+    {.button,
+     input[type="submit"],
+     input[type="reset"],
+     input[type="button"]
+   }
+     
+  <style>{
+    color:#d35400;}
+
+ <!--What is Jottly?textbox-->        
+
+         h3{
+        font-size:18px;
+        font-weight:bold;
+
+<!--Text and textbox-->        
+      
+    p{
+      font-family:Georgia;
+      font-weight:regular;
+      font-size:36px;
+      background-color:#ffffff; 
+      border:1px; solid;#000000;
+      width:230px;
+      height:230px;
+      padding:10px;
+      float:left;
+    }
+<!--Blue Get Started Today Textbox-->
+.textbox{
+      font-weight:bold;
+      font-size:24px;
+      background-color:#2980b9; 
+      border:1px; solid;#000000;
+      width:150px;
+      height:150px;
+      padding:10px;
+      float:right;
+            } 
+
+<!--Green navigation footer bar-->
+      nav{    
+      width:100%; height:20px; color:#2ecc71;  
+      } 
+
+	Inside Green Nav Footer Bar{
+        font-size:14px;
+        color:#000000;
+        font-weight:bold;
+        text-transform:capitalize;
+        text-align:center;right;
+        display:inline-block;
+        padding:10px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

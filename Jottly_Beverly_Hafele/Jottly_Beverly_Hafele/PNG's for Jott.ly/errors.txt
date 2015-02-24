@@ -1,0 +1,4 @@
+[Fri Jan 02 2015 08:38:38 GMT-0600 (CST)] Layer "What is jott.ly box": Expected end of input but "b" found.
+[Fri Jan 02 2015 08:38:38 GMT-0600 (CST)] Layer "what is Jott.ly Jott.ly": Unsupported extension: ly
+[Fri Jan 02 2015 08:38:38 GMT-0600 (CST)] Layer "Jott.lyin the purple": Expected end of input but "t" found.
+[Fri Jan 02 2015 08:38:38 GMT-0600 (CST)] Layer "what is Jott.ly Jott.ly copy": Expected end of input but "c" found.
